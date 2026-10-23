@@ -19,7 +19,7 @@ The source code is private for now while the product gets ready for launch.
 ### Other work
 
 - **TEKNOFEST Robotaxi competition** · finalist team, computer vision. Labelled traffic sign and lane datasets and helped train and evaluate the detection models.
-- **[Restaurant Order & Table Management](https://github.com/wishyasin/Restaurant-Order-Table-Management)** · Android (Kotlin) app with a Node.js + PostgreSQL backend, built as a team of five. I wrote backend endpoints, the order and payment flow and email support, fixed the foreign key relations, wrote the database setup script and install guide, and documented the logical and physical architecture.
+- **[Restaurant Order & Table Management](https://github.com/wishyasin/Restaurant-Order-Table-Management)** · Android (Kotlin) app with a Node.js + PostgreSQL backend, built as a team of five. I wrote backend endpoints, the order and payment flow and email support, added JWT authentication with bcrypt password hashing and admin-only routes, fixed the foreign key relations, wrote the database setup script and install guide, and documented the logical and physical architecture.
 
 ### Tools I use
 
