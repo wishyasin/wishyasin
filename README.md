@@ -14,7 +14,7 @@ Owners of earthquake-risk buildings usually find a contractor through word of mo
 - Admin panel with two-factor login and moderation tools
 - Turkish and English, with tests on both the API and the app
 
-The source code is private for now while the product gets ready for launch.
+The source code is private for now while the product gets ready for launch. The **[renovia-showcase](https://github.com/wishyasin/renovia-showcase)** repo has the architecture, screenshots and demo videos for homeowners, contractors and admins.
 
 ### Other work
 
